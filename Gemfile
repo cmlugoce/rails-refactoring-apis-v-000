@@ -29,6 +29,7 @@ gem 'pry'
 gem 'faraday'
 # Dot-env
 gem 'dotenv-rails'
+gem 'rdoc', '~> 4.3.0'
 
 #Testing
 group :test do
